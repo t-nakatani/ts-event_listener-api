@@ -1,0 +1,16 @@
+{
+  "name": "observer_api",
+  "scripts": {
+    "start": "ts-node backend_api/app.ts"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.10.0",
+    "express": "^4.21.0",
+    "newrelic": "^12.5.1",
+    "pino": "^9.4.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  }
+}
